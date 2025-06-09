@@ -1,5 +1,3 @@
-# Here is another update by jrvidalvidales
-
 # Here is a new update by jrvidalvidales
 
 # Shipping Cost Calculator
